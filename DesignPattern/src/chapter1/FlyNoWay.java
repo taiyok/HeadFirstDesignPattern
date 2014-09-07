@@ -4,7 +4,7 @@ public class FlyNoWay implements FlyBehavior {
 
 	@Override
 	public void fly() {
-		// TODO 自動生成されたメソッド・スタブ
+		System.out.println("飛べません");
 
 	}
 
