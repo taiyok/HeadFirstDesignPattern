@@ -4,8 +4,7 @@ public class MuteQuack implements QuackBehavior {
 
 	@Override
 	public void quack() {
-		// TODO 自動生成されたメソッド・スタブ
-
+		System.out.println("<<沈黙>>");
 	}
 
 }
